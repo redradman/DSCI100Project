@@ -1,3 +1,3 @@
-# DSCI100Project
+# DSCI100 Term Project
 
-To be used for DSCI 100 project 
+The goal is to create a KNN model capable of determining if celestial body is a pulsar or not 
